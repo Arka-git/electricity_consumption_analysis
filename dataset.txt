@@ -1,0 +1,7 @@
+The data set has power consumption data(kw) for 30 houses(labelled with house numbers) from 01 Jan 2019 to 01 Nov 2019 at a 15 minute sampling rate.
+Each column has data for a specific data point(house).
+15 minute data sampling is considered enough to capture patterns in energy consumption across different houses and for a specific house.
+size of file - 6048kb
+Source of data - Pecan Street Dataport(login required) - https://dataport.pecanstreet.org/
+How accurate is the date? - Data from meters placed at each unit. No abstractions in data.
+Note - S0me houses do not have data for all intervals
